@@ -1,0 +1,16 @@
+D:\Projects\BaseCS\BaseCS\bin\x64\Debug\net5.0\BaseCS.exe
+D:\Projects\BaseCS\BaseCS\bin\x64\Debug\net5.0\BaseCS.deps.json
+D:\Projects\BaseCS\BaseCS\bin\x64\Debug\net5.0\BaseCS.runtimeconfig.json
+D:\Projects\BaseCS\BaseCS\bin\x64\Debug\net5.0\BaseCS.runtimeconfig.dev.json
+D:\Projects\BaseCS\BaseCS\bin\x64\Debug\net5.0\BaseCS.dll
+D:\Projects\BaseCS\BaseCS\bin\x64\Debug\net5.0\ref\BaseCS.dll
+D:\Projects\BaseCS\BaseCS\bin\x64\Debug\net5.0\BaseCS.pdb
+D:\Projects\BaseCS\BaseCS\obj\x64\Debug\net5.0\BaseCS.csproj.AssemblyReference.cache
+D:\Projects\BaseCS\BaseCS\obj\x64\Debug\net5.0\BaseCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\BaseCS\BaseCS\obj\x64\Debug\net5.0\BaseCS.AssemblyInfoInputs.cache
+D:\Projects\BaseCS\BaseCS\obj\x64\Debug\net5.0\BaseCS.AssemblyInfo.cs
+D:\Projects\BaseCS\BaseCS\obj\x64\Debug\net5.0\BaseCS.csproj.CoreCompileInputs.cache
+D:\Projects\BaseCS\BaseCS\obj\x64\Debug\net5.0\BaseCS.dll
+D:\Projects\BaseCS\BaseCS\obj\x64\Debug\net5.0\ref\BaseCS.dll
+D:\Projects\BaseCS\BaseCS\obj\x64\Debug\net5.0\BaseCS.pdb
+D:\Projects\BaseCS\BaseCS\obj\x64\Debug\net5.0\BaseCS.genruntimeconfig.cache
